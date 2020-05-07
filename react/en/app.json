@@ -1,0 +1,17 @@
+{
+  "title": "Welcome to Modern Health",
+  "content": {
+    "welcometext": "Your one-stop shop for mental well-being and personal growth."
+  },
+  "title1": "Personalized to your needs",
+  "content1": {
+    "personaltext": "Tell us what you'd like help with, so we can match you with a care professional that's right for you."
+  },
+  "title2": "Based on techniques that work",
+  "content2": {
+    "techtext": "Get care that's rooted in evidence-based approaches to help you improve your well-being."
+  },
+  "signin":"Sign Up",
+  "login":"Log In",
+  "sso:":"Using SSO?"
+}
