@@ -1,0 +1,11 @@
+msgid "Welcome to Modern Health"
+msgstr "Welcome to Modern Health"
+
+msgid "Meet your translators"
+msgstr "Meet your translators"
+
+msgid "Discover new technology"
+msgstr "Discover new technology"
+
+msgid "Translate the words on your website, mobile app, product, and more into any language."
+msgstr "Translate the words on your website, mobile app, product, and more into any language."
