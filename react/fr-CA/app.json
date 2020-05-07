@@ -1,0 +1,17 @@
+{
+  "title" : "Bienvenue à Modern Health",
+  "content" : {
+    "welcometext" : "Votre guichet unique pour le bien-être mental et la croissance personnelle."
+  },
+  "title1" : "Personnalisé selon vos besoins",
+  "content1" : {
+    "personaltext" : "Dites-nous ce que vous aimeriez obtenir, afin que nous puissions vous jumeler avec un professionnel de la santé qui vous convient."
+  },
+  "title2" : "Basé sur des techniques qui fonctionnent",
+  "content2" : {
+    "techtext" : "Obtenez des soins ancrés dans des approches factuelles pour vous aider à améliorer votre bien-être."
+  },
+  "signin" : "S'inscrire",
+  "login" : "S'identifier",
+  "sso:" : "Vous utilisez SSO?"
+}
